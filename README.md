@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on multiple projects, such as python camera distortions
 - 🌱 I’m currently learning Java
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakp1&count_private=true)
