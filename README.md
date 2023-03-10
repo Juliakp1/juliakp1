@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakp1&count_private=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliakp1&layout=compact)](https://github.com/juliakp1/github-readme-stats)
