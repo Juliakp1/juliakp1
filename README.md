@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakp1&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliakp1&layout=compact&theme=tokyonight)](https://github.com/juliakp1/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliakp1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
