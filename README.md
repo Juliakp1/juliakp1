@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on multiple projects, such as python camera distortions
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently studying Computer Science
+- 🌱 I’m currently learning C
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakp1&count_private=true&theme=tokyonight)
 
